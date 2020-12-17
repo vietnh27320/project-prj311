@@ -1,0 +1,28 @@
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #82ae46 !important;
+    background-color: white !important;
+}
+a:hover {
+    color: lightblue;
+    text-decoration: none !important;
+}
+ td a{
+     text-decoration: underline;
+    color: blue !important;
+}
+a{
+    color: black !important;
+}
+.input-area {
+    width: 98%;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    padding: 0 10px;
+}
+.input {
+    height: 30px;
+    width: 95%;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    padding: 0 10px;
+}
